@@ -1,7 +1,5 @@
-# blank-template
-Blank Template (no webpack).
-Just to  get basic folder structure ready.
-Update it accordingly when using it.
+# Image Carousel (Thumbnailed)
+Idea from a Youtube video I watched a few days ago.
 
 
 Developed by Shaunak Basu / https://github.com/basushaunak
