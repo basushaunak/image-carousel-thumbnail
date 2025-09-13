@@ -171,9 +171,9 @@ h2 {
 
 .image-carousel {
   position: absolute;
-  left: 10vw;
+  right: 1rem;
   bottom: 5vh;
-  width: 90vw;
+  max-width: 90vw;
   padding: 1em;
   z-index: 2;
   display: flex;
@@ -184,6 +184,7 @@ h2 {
   overflow: hidden;
   opacity:0;
   transition: opacity 1s ease;
+  border-radius: 20px;
 }
 .image-carousel:hover {
   opacity: 1;
