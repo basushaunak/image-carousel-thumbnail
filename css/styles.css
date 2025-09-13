@@ -181,11 +181,17 @@ h2 {
   background-color: rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(2px) grayscale(50%);
   -webkit-backdrop-filter: blur(2px) grayscale(50%);
-  overflow: hidden;
+  overflow-x: auto;
+  scrollbar-width: none;
   opacity:0;
   transition: opacity 1s ease;
   border-radius: 20px;
 }
+
+.image-carousel::-webkit-scrollbar {
+  display: none; 
+}
+
 .image-carousel:hover {
   opacity: 1;
 }
