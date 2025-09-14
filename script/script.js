@@ -6,6 +6,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/2.jpg",
@@ -14,6 +15,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/3.jpg",
@@ -22,6 +24,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/4.jpg",
@@ -30,6 +33,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/5.jpg",
@@ -38,6 +42,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/6.jpg",
@@ -46,6 +51,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/7.jpg",
@@ -54,6 +60,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/8.jpg",
@@ -62,6 +69,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/9.jpg",
@@ -70,6 +78,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/10.jpg",
@@ -78,6 +87,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/11.jpg",
@@ -86,6 +96,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/12.jpg",
@@ -94,6 +105,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/13.jpg",
@@ -102,6 +114,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/14.jpg",
@@ -110,6 +123,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/15.jpg",
@@ -118,6 +132,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/16.jpg",
@@ -126,6 +141,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/17.jpg",
@@ -134,6 +150,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/18.jpg",
@@ -142,6 +159,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/19.jpg",
@@ -150,6 +168,7 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
   {
     url: "./assets/images/20.jpg",
@@ -158,24 +177,43 @@ const demoImages = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloremque delectus consequuntur repellendus odio incidunt laborum commodi minima et officiis beatae labore quae quaerat, assumenda cupiditate quidem dicta reprehenderit quis.",
     altText: "",
+    div: "",
   },
 ];
 
-function init(images = demoImages) {
+function init(inputImages = demoImages) {
+  let images = [...inputImages];
   let activeImage = 0;
+  let activeImageIndex = 0;
   const imageCarousel = document.querySelector(".image-carousel");
   const primaryImage = document.querySelector("#primary-image");
   for (let i = 0; i < images.length; i++) {
     let newDiv = document.createElement("div");
     newDiv.classList.add("image-carousel-imageholder");
     newDiv.id = `div-${i}`.padStart(3, 0);
+    images[i].div = `div-${i}`.padStart(3, 0);
     let newImg = document.createElement("img");
     newImg.src = images[i].url;
     newImg.alt = images[i].alt;
     newDiv.appendChild(newImg);
     imageCarousel.appendChild(newDiv);
   }
+  console.log(images);
   setActiveImage(activeImage, 0);
+  document.querySelector("#btn-left").addEventListener("click", (e) => {
+    let newActive = activeImage - 1;
+    if (newActive < 0) {
+      newActive = images.length - 1;
+    }
+    activeImage = setActiveImage(activeImage,newActive);
+  });
+  document.querySelector("#btn-right").addEventListener("click", (e) => {
+    let newActive = activeImage + 1;
+    if (newActive >= images.length) {
+      newActive = 0;
+    }
+    activeImage = setActiveImage(activeImage,newActive);
+  });
   imageCarousel.addEventListener("click", (e) => {
     if (e.target.tagName === "IMG") {
       let clickedDiv = e.target.parentElement;
@@ -185,16 +223,16 @@ function init(images = demoImages) {
   });
 
   imageCarousel.addEventListener("mousemove", (e) => {
-      const rect = imageCarousel.getBoundingClientRect();
-      const mouseX = e.clientX - rect.left;
-      const edgeSize = 100;
-      const scrollSpeed = 10;
-      if (mouseX < edgeSize) {
-        imageCarousel.scrollLeft -= scrollSpeed;
-      } else if (mouseX > rect.width - edgeSize) {
-        imageCarousel.scrollLeft += scrollSpeed;
-      }
-    });
+    const rect = imageCarousel.getBoundingClientRect();
+    const mouseX = e.clientX - rect.left;
+    const edgeSize = 100;
+    const scrollSpeed = 10;
+    if (mouseX < edgeSize) {
+      imageCarousel.scrollLeft -= scrollSpeed;
+    } else if (mouseX > rect.width - edgeSize) {
+      imageCarousel.scrollLeft += scrollSpeed;
+    }
+  });
 
   function setActiveImage(oldActive, newActive) {
     let oldId = `div-${oldActive}`.padStart(3, 0);
@@ -202,7 +240,8 @@ function init(images = demoImages) {
     document.querySelector(`#${oldId}`).classList.remove("active-image");
     let newActiveElement = document.querySelector(`#${newId}`);
     newActiveElement.classList.add("active-image");
-    imageCarousel.appendChild(newActiveElement);
+    console.log(newActiveElement);
+    // imageCarousel.appendChild(newActiveElement);
     primaryImage.src = images[newActive].url;
     document.querySelector(".text-content h1").innerText =
       images[newActive].title;
@@ -212,6 +251,7 @@ function init(images = demoImages) {
       images[newActive].description;
     return newActive;
   }
+
 }
 
 init(demoImages);
