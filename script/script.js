@@ -198,7 +198,7 @@ function init(inputImages = demoImages) {
     newDiv.appendChild(newImg);
     imageCarousel.appendChild(newDiv);
   }
-  console.log(images);
+  // console.log(images);
   setActiveImage(activeImage, 0);
   document.querySelector("#btn-left").addEventListener("click", (e) => {
     let newActive = activeImage - 1;
@@ -240,7 +240,7 @@ function init(inputImages = demoImages) {
     document.querySelector(`#${oldId}`).classList.remove("active-image");
     let newActiveElement = document.querySelector(`#${newId}`);
     newActiveElement.classList.add("active-image");
-    console.log(newActiveElement);
+    // console.log(newActiveElement);
     // imageCarousel.appendChild(newActiveElement);
     primaryImage.src = images[newActive].url;
     document.querySelector(".text-content h1").innerText =
